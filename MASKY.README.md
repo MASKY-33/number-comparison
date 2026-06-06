@@ -2,7 +2,7 @@
 This program asks the user to enter two numbers and then compares them.  
 It prints which number is bigger, or states that the numbers are equal.
 
-# Features
+## Features
 - Asks the user for two numbers
 - Compares the values using conditional statements
 - Prints which number is larger
